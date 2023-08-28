@@ -2,14 +2,18 @@
 
 **Descripción**
 
+Curso de carácter teórico práctico que invita a los estudiantes a comprender, conocer y aplicar tecnologías interactivas a través de un enfoque de aprendiaje mediante proyectos.
 
-El desarrollo contemporáneo de nuevas prácticas proyectuales y creativas, en parte, no ha sido posible sin el respaldo de una serie de tecnologías de alta accesibilidad y bajos costos que facilitan el desarrollo y prototyped de nuevas interacciones y experiencias. De este modo el dominio de tecnologías interactivas abre un campo de nuevas y evolutivas herramientas proyectuales, construyendo nuevas relaciones físicas y digitales entre los usuarios, objetos y espacios.
+El desarrollo contemporáneo de nuevas prácticas proyectuales y creativas, en parte, no ha sido posible sin el respaldo de una serie de tecnologías de alta accesibilidad y bajos costos que facilitan el desarrollo y prototipado de nuevas interacciones y experiencias. De este modo el dominio de tecnologías interactivas abre un campo de nuevas y evolutivas herramientas proyectuales, contruyendo nuevas relaciones fisicas y digitales entre los usuarios, objetos y espacios.
 
+Del mismo modo se espera que el curso contribuya con la generación de iniciativas creativas de base tecnológica a la “Factoría UDP”, la cual requiere ser alimentada con iniciativas innovadoras especialmente con tecnologías contemporáneas y sus posibilidades futuras.  
 
 **Objetivos específicos** 
 
 1. Desarrollar un espíritu creativo, crítico y activo en relación a las tecnologías interactivas, extendiendo el espectro de recursos creativos de los estudiantes de diseño y otras disciplinas creativas (Arte – Arquitectura) hacia modos de base sistémica, mediante tecnologías de interacción.
+2. Conocer las plataformas tecnológicas para el desarrollo de interacciones, capacitando a los alumnos particularmente en el uso de la plataforma Arduino.
 
+3. Aplicar el conocimiento teórico en ejercicios prácticos y progesivos en complejidad, integrando en un proyecto final una propuesta funcional.
 
 **Módulos**
 
