@@ -46,31 +46,13 @@ Del mismo modo se espera que el curso contribuya con la generación de iniciativ
 
 Metodologías de enseñanza‐aprendizaje aplicadas:
 
-ABP: En el aprendizaje basado en problemas, el estudiante es sometido a resolver un problema
+ABP: En el aprendizaje basado en problemas, el estudiante es sometido a resolver un problema específico, primero analizando y estableciendo las especificaciones del problema y luego determinando las necesidades y requerimientos para resolverlo. Se formulan y evalúan soluciones alternativas, seleccionando la mejor y evaluando lo aprendido periódicamente. Éste proceso considera la guía y acompañamiento del profesor para el alineamiento y conducción de la información.
 
-específico, primero analizando y estableciendo las especificaciones del problema y luego
-
-determinando las necesidades y requerimientos para resolverlo. Se formulan y evalúan
-
-soluciones alternativas, seleccionando la mejor y evaluando lo aprendido periódicamente. Éste
-
-proceso considera la guía y acompañamiento del profesor para el alineamiento y conducción de
-
-la información.
-
-APD: En el aprendizaje por descubrimiento, los estudiantes se enfrentan a un reto y trabajan
-
-para encontrar la solución, por medio de la experimentación y exploración individual, prueba y
-
-error. El profesor puede proporcionar información en respuesta a los esfuerzos de los
-
-estudiantes, pero ofrece poca o ninguna dirección antes o durante esos esfuerzos, sólo finalizado el proceso.
+APD: En el aprendizaje por descubrimiento, los estudiantes se enfrentan a un reto y trabajan para encontrar la solución, por medio de la experimentación y exploración individual, prueba y error. El profesor puede proporcionar información en respuesta a los esfuerzos de los estudiantes, pero ofrece poca o ninguna dirección antes o durante esos esfuerzos, sólo finalizado el proceso.
 
 **Evaluación**
 
-Evaluaciones acumulativas clase a clase por medio de rúbricas. Los conceptos de evaluación se
-
-ajustarán a la rúbrica de examen con el fin de generar una adaptación sistemática al instrumento de evaluación final.
+Evaluaciones acumulativas clase a clase por medio de rúbricas. Los conceptos de evaluación se ajustarán a la rúbrica de examen con el fin de generar una adaptación sistemática al instrumento de evaluación final.
 
 Ejemplo
 
@@ -83,18 +65,12 @@ Ejemplo
 
 **Bibliografía básica referencia: (min 3 máx. 5 libros).**
 
-1. Burdek Bernhard. Diseño. Historia teoría y práctica del diseño industrial. Ed. GG. Barcelona,
-
-1994.
-
-1. Müller Brockmann, Josef. Historia de la comunicación visual. Ed. G.G. México, 1998.
-2. Munari, Bruno. Cómo nacen los objetos. Ed. G.G. Barcelona, 1996.
+1. Burdek Bernhard. Diseño. Historia teoría y práctica del diseño industrial. Ed. GG. Barcelona, 1994.
+2. Müller Brockmann, Josef. Historia de la comunicación visual. Ed. G.G. México, 1998.
+3. Munari, Bruno. Cómo nacen los objetos. Ed. G.G. Barcelona, 1996.
 
 **Bibliografía complementaria referencia: (min 3 máx. 10 libros).**
 
-1. Bolhöfer, Kitty. Turning Pages: editorial design for print media: magazines, books,
-
-newspapers. Ed. Gestalten. Berlin, 2010.
-
-1. Narelle, Yabuka. Carboard book. Ed. Ginko Press, 2010.
-2. Boylston, Scott. Designing sustainable packaging. Ed. Laurence King, London, 2009.
+1. Bolhöfer, Kitty. Turning Pages: editorial design for print media: magazines, books, newspapers. Ed. Gestalten. Berlin, 2010.
+2. Narelle, Yabuka. Carboard book. Ed. Ginko Press, 2010.
+3. Boylston, Scott. Designing sustainable packaging. Ed. Laurence King, London, 2009.
