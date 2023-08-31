@@ -11,6 +11,7 @@ void loop()
   // Suma el valor de incremento al número decimal
   decimalNumber += increment;
 
+  // Se pueden crear comentarios más complejos que describan más de una línea de código, como agrupar estas dos líneas de comentarios, de esta manera la escritura se hace más rápida.
   // Envía el número decimal actual por la comunicación serial
   Serial.print("Número decimal actual: ");
   Serial.println(decimalNumber, 4); // Imprime con 4 decimales
