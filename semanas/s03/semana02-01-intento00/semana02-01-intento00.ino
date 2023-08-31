@@ -1,3 +1,4 @@
+// El primer intento no tiene las variables necesarias tampoco las declaraciones de funciones para imprimir en la consola. Esos eran los objetivos de la tarea.
 int pinled = 8;
 int speed = 300;
 void setup()
