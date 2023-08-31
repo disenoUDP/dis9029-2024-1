@@ -1,3 +1,12 @@
+/**
+ * El primer intento cumple con lo necesario del ejercicio
+ * Ademas de contenido de siguientes semanas como las condicionales
+ * Si bien no se pidió, están bien utilizadas.
+ * Se recomienda:
+ * utilizar control+T para indentar el texto
+ * escribir comentarios de línea o bloque del código que se escribe
+ *
+ */
 int dia, semana;
 void setup() {
   // put your setup code here, to run once:
