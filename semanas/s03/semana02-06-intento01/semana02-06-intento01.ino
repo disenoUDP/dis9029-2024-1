@@ -17,7 +17,16 @@ void loop() {
   tres = contador * 3; //multiplica el contador por 3
   cinco = contador * 5; //multiplica el contador por 5
   diez = contador * 10; // multiplica el contador por 10
-  
+
+  /**
+   * Esta excelente la tarea:
+   * Tiene una estructura que describe el uso de todo el contenido entregado.
+   * Con esta estructura será más fácil en el futuro ir escribiendo progrmas
+   * mas complejos. Por mejorar se puede redactar en bloque de código.
+   *
+   * Bien hecho.
+   *
+   */
   // lo de abajo define el orden del loop
   // vale más que lo de arriba sin que salga serial.println no se muestra en la consola
   // lo de arriba es como una declaración, si pongo 5, se entiende que estoy multiplicando el contador por 5
