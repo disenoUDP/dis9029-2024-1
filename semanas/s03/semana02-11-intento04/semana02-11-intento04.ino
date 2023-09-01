@@ -1,3 +1,8 @@
+/**
+ * Está muyu bien ejecutado con las restricciones del encargo.
+ * Es necesario redactar comentarios para revisiones futuras y 
+ * posibles reutilizaciones con modificaciones.
+*/
 int paginas = 10;
 int c = 1;
 int dias = 5;
