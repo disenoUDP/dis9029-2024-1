@@ -1,3 +1,10 @@
+/**
+ * Excelente trabajo utilizando las limitaciones
+ * de la tarea generando un output gráfico con intención
+ *
+ * Es importante realizar comentarios que ayuden a revisar
+ * el código para reutilizar alguna de sus partes.
+ */
 int inicio = 0;
 char espacio = ' ';
 void setup() {
