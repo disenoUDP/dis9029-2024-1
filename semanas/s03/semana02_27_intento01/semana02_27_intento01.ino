@@ -1,3 +1,13 @@
+/**
+ * Cumple con lo requerido, pero contiene
+ * condicionales y comparadores que estaban
+ * fuera del contenido al momento de dar la tarea
+ *
+ * Se recomienda entregar lo que se pide para poder
+ * evaluar correctamente, pero apesar de eso es bienvenido
+ * conocimiento adicional para el resto de las sesiones
+ *
+ */
 const char mensaje[] = "siempre_es_viernes_en_mi_corazon_";
 int index = 0;
 int repetirConteo = 10;
