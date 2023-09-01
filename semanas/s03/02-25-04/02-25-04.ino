@@ -1,3 +1,9 @@
+/**
+ * Cumple con lo básico de lo requerido en la tarea,
+ * se espera que desde esta base en adelante
+ * se aumente la complejidad
+ *
+ */
 float segundos, minutos;
 void setup() {
   // put your setup code here, to run once:
