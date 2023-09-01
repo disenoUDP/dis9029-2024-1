@@ -1,3 +1,11 @@
+/**
+ * Excelente trabajo utilizando las limitaciones
+ * de la tarea generando un output de péndulo es una lógica
+ * recurrente para utilizar todos los valores de iput y output
+ *
+ * Es importante realizar comentarios que ayuden a revisar
+ * el código para reutilizar alguna de sus partes.
+ */
 int sam, estado;
 void setup() {
 // Start of the variable
