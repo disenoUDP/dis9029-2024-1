@@ -1,3 +1,11 @@
+/**
+ * Excelente trabajo utilizando las limitaciones
+ * de la tarea generando un output, no me queda claro la
+ * utilización de outputs
+ *
+ * Es importante realizar comentarios que ayuden a revisar
+ * el código para reutilizar alguna de sus partes.
+ */
 int mipin = 1;
 int esperar = 1000;
 int esperar2 = 500;
