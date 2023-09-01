@@ -1,3 +1,4 @@
+// Está bien escrito, pero no entiendo el objetivo del trabajo, es muy diferente a lo que se pidió y tiene contenido que no se había generado al momento de la tarea.
 // Sebastián Contreras
 // Respuestas de prueba
   int respuesta1 = 0;
