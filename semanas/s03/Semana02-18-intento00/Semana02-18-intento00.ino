@@ -1,3 +1,10 @@
+/**
+ * Excelente trabajo utilizando las limitaciones
+ * de la tarea generando un output
+ *
+ * Es importante realizar comentarios que ayuden a revisar
+ * el código para reutilizar alguna de sus partes.
+ */
 int tardanza = 500;
 int tardanza2 = 1000; 
 int tardanza3 = 1500;
