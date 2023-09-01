@@ -1,3 +1,11 @@
+/**
+ * Buen trabajo utilizando las limitaciones
+ * de la tarea generando un output gráfico con intención,
+ * pero llega a 12 y se vuelve en valores estáticos.
+ *
+ * Es importante realizar comentarios que ayuden a revisar
+ * el código para reutilizar alguna de sus partes.
+ */
 float Base, Otro, Aquel, Tapa;
 void setup()
 {

@@ -1,3 +1,10 @@
+/**
+ * Excelente trabajo utilizando las limitaciones
+ * de la tarea generando un output.
+ *
+ * Es importante realizar comentarios que ayuden a revisar
+ * el código para reutilizar alguna de sus partes.
+ */
 int tres, cuatro, cinco, multiplo; // variables de multiplos y multiplicadores
 void setup()
 {
