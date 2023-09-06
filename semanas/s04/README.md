@@ -28,7 +28,7 @@ Previo a la clase: Comentarios de las entregas
 
 Con el objetivo de documentar el espacio que ocupa la práctica del diseño y la posibilidad de medir el impacto de la producción, se plantea el siguiente registro multimedia: “dos columnas de artefactos adheridos con masking tape alineados en fusión de la cámara junto con la posición del micrófono”. Se grabará un minuto en intervalos de treinta minutos aproximadamente.
 
-![distribución de artefactos en la sala](A%CC%81rboles%20de%20decisio%CC%81n%205ec9cb7cb52a479399bc254da29d89a2/s4-sala.png)
+![distribución de artefactos en la sala](images/s4-sala.png)
 
 distribución de artefactos en la sala
 
@@ -86,7 +86,7 @@ Se entregan diagramas, código, y prototipo digital de las siguientes sentencias
 
 ## Un botón que enciende un led mientras se presiona
 
-![Untitled](A%CC%81rboles%20de%20decisio%CC%81n%205ec9cb7cb52a479399bc254da29d89a2/Untitled.png)
+![Untitled](images/Untitled.png)
 
 ```arduino
 /**
@@ -130,7 +130,7 @@ void loop() {
 
 ## Un botón que deja encendido o apagado
 
-![Untitled](A%CC%81rboles%20de%20decisio%CC%81n%205ec9cb7cb52a479399bc254da29d89a2/Untitled%201.png)
+![Untitled](images/Untitled%201.png)
 
 ```arduino
 /**
@@ -187,7 +187,7 @@ void loop() {
 
 ## Un boton que itera por un menu
 
-![Untitled](A%CC%81rboles%20de%20decisio%CC%81n%205ec9cb7cb52a479399bc254da29d89a2/Untitled%202.png)
+![Untitled](images/Untitled%202.png)
 
 ```arduino
 /**
@@ -250,4 +250,8 @@ void loop() {
 
 # segunda parte OUTPUT
 
-Cada dupla deberá proponer configuraciones lúminicas densas que cambien sus estados a través las opciones del usuario y el tiempo.
+Los estudiantes crearon una variación de alguno de los ejemplos dados. La entrega consistió en un archivo zip con:  
+1. Evidencia de diagrama propio de los ejemplos seleccionados
+2. La edición del código con comentarios propios
+
+En la sesión se grabó el uso de cada artefacto creado. 
