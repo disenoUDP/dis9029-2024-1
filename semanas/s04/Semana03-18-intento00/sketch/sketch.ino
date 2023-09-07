@@ -75,7 +75,8 @@ void loop() {
     digitalWrite(ledpin3, HIGH);
     digitalWrite(ledPin4, HIGH);
 
- } else if(counter%6 == 5){
+ } 
+ else if(counter%6 == 5){
     digitalWrite(ledPin1, LOW);
     digitalWrite(ledPin2, LOW);
     digitalWrite(ledpin3, LOW);
