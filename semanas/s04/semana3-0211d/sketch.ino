@@ -1,11 +1,15 @@
- const int buttonPin = 2;
-  const int ledPin1 = 13;
-  const int ledPin2 = 12; 
+// agregar descripción del código
+// agregar autores y fecha
+// cambiar el nombre del archivo sketch.ino al respectivo del curso
 
-  int ledState = 0;
-  int lastButtonState = HIGH;
-  int buttonState;
-  int counter = 0;
+const int buttonPin = 2;
+const int ledPin1 = 13;
+const int ledPin2 = 12;
+
+int ledState = 0;
+int lastButtonState = HIGH;
+int buttonState;
+int counter = 0;
 
 void setup() {
   pinMode(buttonPin, INPUT_PULLUP);
