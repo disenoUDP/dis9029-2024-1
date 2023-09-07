@@ -1,3 +1,6 @@
+// agregar descripción del código
+// agregar autores y fecha
+
 /**
  * "Un boton que itera por un menu"
  * Dos secciones de código:
@@ -66,6 +69,7 @@ void loop()
     digitalWrite(ledPin2, HIGH);
     digitalWrite(ledPin3, LOW);
   }
+  // código de alumnos
   else if (counter % 8 == 3)
   {
     digitalWrite(ledPin1, LOW);
