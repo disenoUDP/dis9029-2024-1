@@ -1,3 +1,6 @@
+// agregar descripción del código
+// agregar autores y fecha
+
 /**
   * "Un boton que itera por un menu"
   * Dos secciones de código:
