@@ -1,3 +1,6 @@
+// agregar texto que describa el código
+// agregar autores y fecha
+
 const int buttonPin = 2; // Pin del botón
 const int ledPin1 = 13;   // Primer LED
 const int ledPin2 = 12;  // Segundo LED
