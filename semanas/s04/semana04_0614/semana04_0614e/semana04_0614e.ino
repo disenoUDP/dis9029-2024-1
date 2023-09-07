@@ -1,3 +1,6 @@
+// agregar texto descriptivo del progrma
+// agregar autores y fecha
+
 int buttonPin = 7; // Pin del botón
 int redLED = 2;   // Pin del LED rojo
 int yellowLED = 3; // Pin del LED amarillo

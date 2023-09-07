@@ -1,4 +1,8 @@
+// agregar texto descriptivo del progrma
+// agregar autores y fecha
+
 const int buttonPin = 2; // Pin del botón
+// explicar este tipo de variable
 const int ledPins[] = {3, 4, 5, 6, 7}; // Pines de los LEDs
 const int delays[] = {1000, 2000, 3000, 4000, 5000}; // Delays para cada LED
 
@@ -10,6 +14,7 @@ int currentLed = 0; // Índice del LED actual
 
 void setup() {
   pinMode(buttonPin, INPUT_PULLUP); // Configura el pin del botón con resistencia pull-up interna
+  // explicar esta estructura de control
   for (int i = 0; i < 5; i++) {
     pinMode(ledPins[i], OUTPUT);
   }
@@ -17,6 +22,7 @@ void setup() {
 
 void loop() {
   int reading = digitalRead(buttonPin);
+  // editar código sin usar
   if (reading != lastButtonState) {
     }
     
