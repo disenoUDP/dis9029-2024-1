@@ -48,7 +48,7 @@ void loop() {
     digitalWrite(ledPin2, HIGH);
 
   } else if(counter%3 == 2){ // == significa que mientras el estado del botón sea 0, la función if tendrá un valor TRUE. Si no lo es, será FALSE
-    digitalWrite(ledPin1, LOW); //Se prenden ambos
+    digitalWrite(ledPin1, LOW); // Se apagan ambos
     digitalWrite(ledPin2, LOW);
   }
 }
