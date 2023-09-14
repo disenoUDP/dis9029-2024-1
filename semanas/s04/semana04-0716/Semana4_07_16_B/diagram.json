@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "author": "NICOLAS ANTONIO CARRASCO MARIN",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-breadboard-half", "id": "bb1", "top": -262.2, "left": -35.6, "attrs": {} },
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": -183,
+      "left": 214.2,
+      "rotate": 90,
+      "attrs": { "color": "green" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -176.4,
+      "left": 32.6,
+      "attrs": { "color": "red" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led2",
+      "top": -176.4,
+      "left": -25,
+      "attrs": { "color": "green" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led3",
+      "top": -176.4,
+      "left": 3.8,
+      "attrs": { "color": "yellow" }
+    }
+  ],
+  "connections": [
+    [ "bb1:27b.i", "bb1:bn.22", "black", [ "v0" ] ],
+    [ "bb1:29b.i", "uno:2", "red", [ "v0" ] ],
+    [ "bb1:1b.j", "bb1:bn.1", "black", [ "v0" ] ],
+    [ "bb1:4b.j", "bb1:bn.3", "black", [ "v0" ] ],
+    [ "bb1:7b.j", "bb1:bn.6", "black", [ "v0" ] ],
+    [ "bb1:bn.9", "uno:GND.1", "black", [ "v0" ] ],
+    [ "uno:13", "bb1:2b.j", "red", [ "v0" ] ],
+    [ "uno:12", "bb1:5b.i", "red", [ "v0" ] ],
+    [ "uno:11", "bb1:8b.h", "red", [ "v0" ] ],
+    [ "btn1:1.l", "bb1:29t.c", "", [ "$bb" ] ],
+    [ "btn1:2.l", "bb1:27t.c", "", [ "$bb" ] ],
+    [ "btn1:1.r", "bb1:29b.h", "", [ "$bb" ] ],
+    [ "btn1:2.r", "bb1:27b.h", "", [ "$bb" ] ],
+    [ "led1:A", "bb1:8b.g", "", [ "$bb" ] ],
+    [ "led1:C", "bb1:7b.g", "", [ "$bb" ] ],
+    [ "led3:A", "bb1:5b.g", "", [ "$bb" ] ],
+    [ "led3:C", "bb1:4b.g", "", [ "$bb" ] ],
+    [ "led2:A", "bb1:2b.g", "", [ "$bb" ] ],
+    [ "led2:C", "bb1:1b.g", "", [ "$bb" ] ]
+  ],
+  "dependencies": {}
+}
