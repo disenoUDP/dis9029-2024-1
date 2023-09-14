@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "author": "Norita Flores",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-breadboard-half", "id": "bb1", "top": -214.2, "left": -26, "attrs": {} },
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": -144.6,
+      "left": 233.4,
+      "rotate": 90,
+      "attrs": { "color": "blue" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -138,
+      "left": -15.4,
+      "attrs": { "color": "purple" }
+    },
+    { "type": "wokwi-led", "id": "led2", "top": -138, "left": 32.6, "attrs": { "color": "cyan" } }
+  ],
+  "connections": [
+    [ "bb1:30b.j", "bb1:bn.25", "black", [ "v0" ] ],
+    [ "bb1:28b.j", "uno:2", "red", [ "v7.76", "h-19.01" ] ],
+    [ "bb1:1b.j", "bb1:bn.2", "black", [ "v12.59", "h19.42" ] ],
+    [ "bb1:6b.j", "bb1:bn.3", "black", [ "v12.59", "h-21.33" ] ],
+    [ "bb1:bn.1", "uno:GND.1", "black", [ "v13.18", "h105.69" ] ],
+    [ "bb1:2b.j", "uno:13", "red", [ "v48.04", "h115.37" ] ],
+    [ "bb1:7b.j", "uno:12", "red", [ "v19.04", "h77.85" ] ],
+    [ "btn1:1.l", "bb1:30t.b", "", [ "$bb" ] ],
+    [ "btn1:2.l", "bb1:28t.b", "", [ "$bb" ] ],
+    [ "btn1:1.r", "bb1:30b.g", "", [ "$bb" ] ],
+    [ "btn1:2.r", "bb1:28b.g", "", [ "$bb" ] ],
+    [ "led1:A", "bb1:2b.f", "", [ "$bb" ] ],
+    [ "led1:C", "bb1:1b.f", "", [ "$bb" ] ],
+    [ "led2:A", "bb1:7b.f", "", [ "$bb" ] ],
+    [ "led2:C", "bb1:6b.f", "", [ "$bb" ] ]
+  ],
+  "dependencies": {}
+}
