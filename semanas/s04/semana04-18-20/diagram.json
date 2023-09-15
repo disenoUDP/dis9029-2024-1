@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "author": "nicolás troncoso",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-breadboard-half", "id": "bb1", "top": -223.8, "left": -35.6, "attrs": {} },
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -147.6,
+      "left": -25,
+      "attrs": { "color": "yellow" }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": -154.2,
+      "left": 223.8,
+      "rotate": 90,
+      "attrs": { "color": "black" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led2",
+      "top": -147.6,
+      "left": -5.8,
+      "attrs": { "color": "magenta" }
+    },
+    { "type": "wokwi-led", "id": "led3", "top": -147.6, "left": 23, "attrs": { "color": "red" } },
+    {
+      "type": "wokwi-led",
+      "id": "led4",
+      "top": -147.6,
+      "left": 61.4,
+      "attrs": { "color": "purple" }
+    }
+  ],
+  "connections": [
+    [ "bb1:1b.j", "bb1:bn.2", "black", [ "v11.21", "h13.34" ] ],
+    [ "bb1:bn.1", "uno:GND.1", "black", [ "v17.28", "h62.8" ] ],
+    [ "bb1:2b.j", "uno:13", "green", [ "v6.82", "h17.86" ] ],
+    [ "bb1:30b.j", "bb1:bn.25", "black", [ "v0" ] ],
+    [ "bb1:28b.j", "uno:2", "green", [ "v12.18", "h-8.24" ] ],
+    [ "bb1:3b.j", "bb1:bn.3", "black", [ "v16.02", "h6.35" ] ],
+    [ "bb1:4b.j", "uno:12", "green", [ "v11.5", "h110.11" ] ],
+    [ "bb1:7b.j", "uno:10", "green", [ "v0" ] ],
+    [ "bb1:6b.j", "bb1:bn.5", "black", [ "v0" ] ],
+    [ "bb1:10b.j", "bb1:bn.8", "green", [ "v0" ] ],
+    [ "bb1:11b.j", "uno:6", "green", [ "v0" ] ],
+    [ "led1:A", "bb1:2b.f", "", [ "$bb" ] ],
+    [ "led1:C", "bb1:1b.f", "", [ "$bb" ] ],
+    [ "led2:A", "bb1:4b.f", "", [ "$bb" ] ],
+    [ "led2:C", "bb1:3b.f", "", [ "$bb" ] ],
+    [ "led3:A", "bb1:7b.f", "", [ "$bb" ] ],
+    [ "led3:C", "bb1:6b.f", "", [ "$bb" ] ],
+    [ "led4:A", "bb1:11b.f", "", [ "$bb" ] ],
+    [ "led4:C", "bb1:10b.f", "", [ "$bb" ] ],
+    [ "btn1:1.l", "bb1:30t.b", "", [ "$bb" ] ],
+    [ "btn1:2.l", "bb1:28t.b", "", [ "$bb" ] ],
+    [ "btn1:1.r", "bb1:30b.g", "", [ "$bb" ] ],
+    [ "btn1:2.r", "bb1:28b.g", "", [ "$bb" ] ]
+  ],
+  "dependencies": {}
+}
