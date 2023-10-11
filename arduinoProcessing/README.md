@@ -1,6 +1,6 @@
 El contenido está en la rama ejercicios y el ayudante en conjunto con el profesor colaboran para la elaboración de material didáctico.
 
-#Ejercicios
+# Ejercicios
 ## Arduino - Processing
 Estos ejercicios y ejemplos están orientados a que los estudiantes comprendan las siguientes estructuras de información en programación: comunicación serial, condicionales, arrays, y loops, 
 ```arduino
